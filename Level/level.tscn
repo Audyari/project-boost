@@ -54,4 +54,4 @@ material = SubResource("StandardMaterial3D_vonw3")
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.24151, 0)
 
 [node name="Camera3D" type="Camera3D" parent="."]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 5.81687, 11.2212)
+transform = Transform3D(1, 0, 0, 0, 0.952794, 0.303617, 0, -0.303617, 0.952794, 0, 5.38899, 8.33008)
